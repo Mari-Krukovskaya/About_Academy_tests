@@ -128,13 +128,11 @@ a {
 }
 
 .about-right {
-  /* position: relative; */
   max-width: 800px;
   width: 100%;
 }
 
 .about_box-img {
-  /* position: absolute; */
   right: 0;
   max-width: 800px;
   width: 100%;
@@ -304,10 +302,6 @@ a {
   line-height: 120%;
   width: 259px;
 }
-
-/* .contacts {
-
-} */
 
 .contacts_content {
   display: flex;
